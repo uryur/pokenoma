@@ -1,3 +1,10 @@
+gText_Intro_PleaseSetTime::
+    .string "Please set the time.\p"
+	.string "$"
+
+
+
+
 gText_Birch_Welcome:: @ 82C897B
 	.string "Hi! Sorry to keep you waiting!\p"
 	.string "Welcome to the world of POKéMON!\p"
