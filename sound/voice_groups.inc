@@ -14427,6 +14427,35 @@ gCryTable:: @ 869DCF4
 	cry Cry_Jirachi  @ 869EF00
 	cry Cry_Deoxys  @ 869EF0C
 	cry Cry_Chimecho  @ 869EF18
+	cry_not Cry_Turtwig
+	cry_not Cry_Grotle
+	cry_not Cry_Torterra
+	cry_not Cry_Chimchar
+	cry_not Cry_Monferno
+	cry_not Cry_Infernape
+	cry_not Cry_Piplup
+	cry_not Cry_Prinplup
+	cry_not Cry_Empoleon
+	cry_not Cry_Kricketot
+	cry_not Cry_Kricketune
+	cry_not Cry_Budew
+	cry_not Cry_Roserade
+	cry_not Cry_Rhyperior
+	cry_not Cry_Magmortar
+	cry_not Cry_Electivire
+	cry_not Cry_Froslass
+	cry_not Cry_Lickilicky
+	cry_not Cry_Shinx
+	cry_not Cry_Luxio
+	cry_not Cry_Luxray
+	cry_not Cry_Riolu
+	cry_not Cry_Lucario
+	cry_not Cry_Gible
+	cry_not Cry_Gabite
+	cry_not Cry_Garchomp
+	cry_not Cry_Honchkrow
+	cry_not Cry_Mismagius
+	cry_not Cry_Spiritomb
 
 	.align 2
 gCryTable2:: @ 869EF24
@@ -14818,6 +14847,35 @@ gCryTable2:: @ 869EF24
 	cry2 Cry_Jirachi  @ 86A0130
 	cry2 Cry_Deoxys  @ 86A013C
 	cry2 Cry_Chimecho  @ 86A0148
+	cry2_not Cry_Turtwig
+	cry2_not Cry_Grotle
+	cry2_not Cry_Torterra
+	cry2_not Cry_Chimchar
+	cry2_not Cry_Monferno
+	cry2_not Cry_Infernape
+	cry2_not Cry_Piplup
+	cry2_not Cry_Prinplup
+	cry2_not Cry_Empoleon
+	cry2_not Cry_Kricketot
+	cry2_not Cry_Kricketune
+	cry2_not Cry_Budew
+	cry2_not Cry_Roserade
+	cry2_not Cry_Rhyperior
+	cry2_not Cry_Magmortar
+	cry2_not Cry_Electivire
+	cry2_not Cry_Froslass
+	cry2_not Cry_Lickilicky
+	cry2_not Cry_Shinx
+	cry2_not Cry_Luxio
+	cry2_not Cry_Luxray
+	cry2_not Cry_Riolu
+	cry2_not Cry_Lucario
+	cry2_not Cry_Gible
+	cry2_not Cry_Gabite
+	cry2_not Cry_Garchomp
+	cry2_not Cry_Honchkrow
+	cry2_not Cry_Mismagius
+	cry2_not Cry_Spiritomb
 
 	.align 2
 voicegroup129:: @ 86A0154

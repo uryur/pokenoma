@@ -1937,6 +1937,122 @@ Cry_Deoxys::
 	.align 2
 Cry_Chimecho::
 	.incbin "sound/direct_sound_samples/cry_chimecho.bin"
+	
+	.align 2
+Cry_Turtwig::
+	.incbin "sound/direct_sound_samples/cry_not_turtwig.bin"
+
+	.align 2
+Cry_Grotle::
+	.incbin "sound/direct_sound_samples/cry_not_grotle.bin"
+
+	.align 2
+Cry_Torterra::
+	.incbin "sound/direct_sound_samples/cry_not_torterra.bin"
+
+	.align 2
+Cry_Chimchar::
+	.incbin "sound/direct_sound_samples/cry_not_chimchar.bin"
+
+	.align 2
+Cry_Monferno::
+	.incbin "sound/direct_sound_samples/cry_not_monferno.bin"
+
+	.align 2
+Cry_Infernape::
+	.incbin "sound/direct_sound_samples/cry_not_infernape.bin"
+
+	.align 2
+Cry_Piplup::
+	.incbin "sound/direct_sound_samples/cry_not_piplup.bin"
+
+	.align 2
+Cry_Prinplup::
+	.incbin "sound/direct_sound_samples/cry_not_prinplup.bin"
+
+	.align 2
+Cry_Empoleon::
+	.incbin "sound/direct_sound_samples/cry_not_empoleon.bin"
+	
+	.align 2
+Cry_Kricketot::
+	.incbin "sound/direct_sound_samples/cry_not_kricketot.bin"
+
+	.align 2
+Cry_Kricketune::
+	.incbin "sound/direct_sound_samples/cry_not_kricketune.bin"
+
+	.align 2
+Cry_Budew::
+	.incbin "sound/direct_sound_samples/cry_not_budew.bin"
+
+	.align 2
+Cry_Roserade::
+	.incbin "sound/direct_sound_samples/cry_not_roserade.bin"
+	
+	.align 2
+Cry_Rhyperior::
+	.incbin "sound/direct_sound_samples/cry_not_rhyperior.bin"
+	
+	.align 2
+Cry_Magmortar::
+	.incbin "sound/direct_sound_samples/cry_not_magmortar.bin"
+	
+	.align 2
+Cry_Electivire::
+	.incbin "sound/direct_sound_samples/cry_not_electivire.bin"
+	
+	.align 2
+Cry_Froslass::
+	.incbin "sound/direct_sound_samples/cry_not_froslass.bin"
+	
+	.align 2
+Cry_Lickilicky::
+	.incbin "sound/direct_sound_samples/cry_not_lickilicky.bin"
+	
+	.align 2
+Cry_Shinx::
+	.incbin "sound/direct_sound_samples/cry_not_shinx.bin"
+
+	.align 2
+Cry_Luxio::
+	.incbin "sound/direct_sound_samples/cry_not_luxio.bin"
+
+	.align 2
+Cry_Luxray::
+	.incbin "sound/direct_sound_samples/cry_not_luxray.bin"
+	
+	.align 2
+Cry_Riolu::
+	.incbin "sound/direct_sound_samples/cry_not_riolu.bin"
+
+	.align 2
+Cry_Lucario::
+	.incbin "sound/direct_sound_samples/cry_not_lucario.bin"
+	
+	.align 2
+Cry_Gible::
+	.incbin "sound/direct_sound_samples/cry_not_gible.bin"
+
+	.align 2
+Cry_Gabite::
+	.incbin "sound/direct_sound_samples/cry_not_gabite.bin"
+
+	.align 2
+Cry_Garchomp::
+	.incbin "sound/direct_sound_samples/cry_not_garchomp.bin"
+	
+	.align 2
+Cry_Honchkrow::
+	.incbin "sound/direct_sound_samples/cry_not_honchkrow.bin"
+	
+	.align 2
+Cry_Mismagius::
+	.incbin "sound/direct_sound_samples/cry_not_mismagius.bin"
+	
+	.align 2
+Cry_Spiritomb::
+	.incbin "sound/direct_sound_samples/cry_not_spiritomb.bin"
 
 	.align 2
 DirectSoundWaveData_register_noise::

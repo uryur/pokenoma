@@ -2060,6 +2060,151 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = 0x37,
         .y_offset = 0x06,
     },
+	[SPECIES_TURTWIG] =
+    {
+        .size = 0x45,
+        .y_offset = 0xb,
+    },
+    [SPECIES_GROTLE] =
+    {
+        .size = 0x56,
+        .y_offset = 0x7,
+    },
+    [SPECIES_TORTERRA] =
+    {
+        .size = 0x88,
+        .y_offset = 0x0,
+    },
+    [SPECIES_CHIMCHAR] =
+    {
+        .size = 0x55,
+        .y_offset = 0xa,
+    },
+    [SPECIES_MONFERNO] =
+    {
+        .size = 0x66,
+        .y_offset = 0x8,
+    },
+    [SPECIES_INFERNAPE] =
+    {
+        .size = 0x88,
+        .y_offset = 0x1,
+    },
+    [SPECIES_PIPLUP] =
+    {
+        .size = 0x65,
+        .y_offset = 0xe,
+    },
+    [SPECIES_PRINPLUP] =
+    {
+        .size = 0x66,
+        .y_offset = 0x7,
+    },
+    [SPECIES_EMPOLEON] =
+    {
+        .size = 0x88,
+        .y_offset = 0x0,
+    },
+	[SPECIES_KRICKETOT] =
+    {
+        .size = 0x86,
+        .y_offset = 0xb,
+    },
+    [SPECIES_KRICKETUNE] =
+    {
+        .size = 0x65,
+        .y_offset = 0x7,
+    },
+	[SPECIES_BUDEW] =
+    {
+        .size = 0x66,
+        .y_offset = 0xe,
+    },
+    [SPECIES_ROSERADE] =
+    {
+        .size = 0x45,
+        .y_offset = 0x7,
+    },
+	[SPECIES_RHYPERIOR] =
+    {
+        .size = 0x88,
+        .y_offset = 0x2,
+    },
+	[SPECIES_MAGMORTAR] =
+    {
+        .size = 0x43,
+        .y_offset = 0x0,
+    },
+	[SPECIES_ELECTIVIRE] =
+    {
+        .size = 0x86,
+        .y_offset = 0x0,
+    },
+	[SPECIES_FROSLASS] =
+    {
+        .size = 0x77,
+        .y_offset = 0x8,
+    },
+	[SPECIES_LICKILICKY] =
+    {
+        .size = 0x66,
+        .y_offset = 0x2,
+    },
+	[SPECIES_SHINX] =
+    {
+        .size = 0x67,
+        .y_offset = 0xd,
+    },
+    [SPECIES_LUXIO] =
+    {
+        .size = 0x88,
+        .y_offset = 0xa,
+    },
+    [SPECIES_LUXRAY] =
+    {
+        .size = 0x44,
+        .y_offset = 0x2,
+    },
+	[SPECIES_RIOLU] =
+    {
+        .size = 0x76,
+        .y_offset = 0xa,
+    },
+    [SPECIES_LUCARIO] =
+    {
+        .size = 0x76,
+        .y_offset = 0x7,
+    },
+	[SPECIES_GIBLE] =
+    {
+        .size = 0x77,
+        .y_offset = 0x9,
+    },
+    [SPECIES_GABITE] =
+    {
+        .size = 0x66,
+        .y_offset = 0x2,
+    },
+    [SPECIES_GARCHOMP] =
+    {
+        .size = 0x88,
+        .y_offset = 0x0,
+    },
+	[SPECIES_HONCHKROW] =
+    {
+        .size = 0x66,
+        .y_offset = 0x6,
+    },
+	[SPECIES_MISMAGIUS] =
+    {
+        .size = 0x45,
+        .y_offset = 0x3,
+    },
+	[SPECIES_SPIRITOMB] =
+    {
+        .size = 0x65,
+        .y_offset = 0x6,
+    },
     [SPECIES_EGG] =
     {
         .size = 0x33,

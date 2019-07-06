@@ -4580,6 +4580,250 @@ static const union AnimCmd sAnim_CHIMECHO_1[] =
     ANIMCMD_END,
 };
 
+static const union AnimCmd sAnim_TURTWIG_1[] =
+{
+    ANIMCMD_FRAME(0, 15),
+    ANIMCMD_FRAME(1, 15),
+    ANIMCMD_FRAME(0, 15),
+    ANIMCMD_FRAME(1, 15),
+    ANIMCMD_FRAME(0, 15),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_GROTLE_1[] =
+{
+    ANIMCMD_FRAME(0, 27),
+    ANIMCMD_FRAME(1, 27),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_TORTERRA_1[] =
+{
+    ANIMCMD_FRAME(0, 10),
+    ANIMCMD_FRAME(1, 26),
+    ANIMCMD_FRAME(0, 10),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_CHIMCHAR_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 20),
+    ANIMCMD_FRAME(0, 7),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_MONFERNO_1[] =
+{
+    ANIMCMD_FRAME(0, 12),
+    ANIMCMD_FRAME(1, 12),
+    ANIMCMD_FRAME(0, 12),
+    ANIMCMD_FRAME(1, 12),
+    ANIMCMD_FRAME(0, 12),
+    ANIMCMD_FRAME(1, 12),
+    ANIMCMD_FRAME(0, 7),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_INFERNAPE_1[] =
+{
+    ANIMCMD_FRAME(0, 10),
+    ANIMCMD_FRAME(1, 25),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_PIPLUP_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_PRINPLUP_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_EMPOLEON_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_KRICKETOT_1[] =
+{
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_KRICKETUNE_1[] =
+{
+    ANIMCMD_FRAME(1, 10),
+    ANIMCMD_FRAME(0, 20),
+    ANIMCMD_FRAME(1, 10),
+    ANIMCMD_FRAME(0, 10),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_BUDEW_1[] =
+{
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_ROSERADE_1[] =
+{
+    ANIMCMD_FRAME(0, 20),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 20),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_RHYPERIOR_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_MAGMORTAR_1[] =
+{
+    ANIMCMD_FRAME(1, 40),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_ELECTIVIRE_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_FROSLASS_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_LICKILICKY_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_SHINX_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_LUXIO_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_LUXRAY_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+	ANIMCMD_FRAME(0, 30),
+	ANIMCMD_FRAME(1, 15),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_RIOLU_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_LUCARIO_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_GIBLE_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_GABITE_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_GARCHOMP_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_HONCHKROW_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 30),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_MISMAGIUS_1[] =
+{
+    ANIMCMD_FRAME(0, 15),
+    ANIMCMD_FRAME(1, 15),
+    ANIMCMD_FRAME(0, 15),
+    ANIMCMD_FRAME(1, 15),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_SPIRITOMB_1[] =
+{
+    ANIMCMD_FRAME(0, 5),
+    ANIMCMD_FRAME(1, 60),
+    ANIMCMD_FRAME(1, 50),
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
 static const union AnimCmd sAnim_EGG_1[] =
 {
     ANIMCMD_FRAME(0, 6),
@@ -6805,6 +7049,151 @@ static const union AnimCmd *const sAnims_CHIMECHO[] ={
     sAnim_CHIMECHO_1,
 };
 
+static const union AnimCmd *const sAnims_TURTWIG[] ={
+    sAnim_GeneralFrame0,
+    sAnim_TURTWIG_1,
+};
+
+static const union AnimCmd *const sAnims_GROTLE[] ={
+    sAnim_GeneralFrame0,
+    sAnim_GROTLE_1,
+};
+
+static const union AnimCmd *const sAnims_TORTERRA[] ={
+    sAnim_GeneralFrame0,
+    sAnim_TORTERRA_1,
+};
+
+static const union AnimCmd *const sAnims_CHIMCHAR[] ={
+    sAnim_GeneralFrame0,
+    sAnim_CHIMCHAR_1,
+};
+
+static const union AnimCmd *const sAnims_MONFERNO[] ={
+    sAnim_GeneralFrame0,
+    sAnim_MONFERNO_1,
+};
+
+static const union AnimCmd *const sAnims_INFERNAPE[] ={
+    sAnim_GeneralFrame0,
+    sAnim_INFERNAPE_1,
+};
+
+static const union AnimCmd *const sAnims_PIPLUP[] ={
+    sAnim_GeneralFrame0,
+    sAnim_PIPLUP_1,
+};
+
+static const union AnimCmd *const sAnims_PRINPLUP[] ={
+    sAnim_GeneralFrame0,
+    sAnim_PRINPLUP_1,
+};
+
+static const union AnimCmd *const sAnims_EMPOLEON[] ={
+    sAnim_GeneralFrame0,
+    sAnim_EMPOLEON_1,
+};
+
+static const union AnimCmd *const sAnims_KRICKETOT[] ={
+    sAnim_GeneralFrame0,
+    sAnim_KRICKETOT_1,
+};
+
+static const union AnimCmd *const sAnims_KRICKETUNE[] ={
+    sAnim_GeneralFrame0,
+    sAnim_KRICKETUNE_1,
+};
+
+static const union AnimCmd *const sAnims_BUDEW[] ={
+    sAnim_GeneralFrame0,
+    sAnim_BUDEW_1,
+};
+
+static const union AnimCmd *const sAnims_ROSERADE[] ={
+    sAnim_GeneralFrame0,
+    sAnim_ROSERADE_1,
+};
+
+static const union AnimCmd *const sAnims_RHYPERIOR[] ={
+    sAnim_GeneralFrame0,
+    sAnim_RHYPERIOR_1,
+};
+
+static const union AnimCmd *const sAnims_MAGMORTAR[] ={
+    sAnim_GeneralFrame0,
+    sAnim_MAGMORTAR_1,
+};
+
+static const union AnimCmd *const sAnims_ELECTIVIRE[] ={
+    sAnim_GeneralFrame0,
+    sAnim_ELECTIVIRE_1,
+};
+
+static const union AnimCmd *const sAnims_FROSLASS[] ={
+    sAnim_GeneralFrame0,
+    sAnim_FROSLASS_1,
+};
+
+static const union AnimCmd *const sAnims_LICKILICKY[] ={
+    sAnim_GeneralFrame0,
+    sAnim_LICKILICKY_1,
+};
+
+static const union AnimCmd *const sAnims_SHINX[] ={
+    sAnim_GeneralFrame0,
+    sAnim_SHINX_1,
+};
+
+static const union AnimCmd *const sAnims_LUXIO[] ={
+    sAnim_GeneralFrame0,
+    sAnim_LUXIO_1,
+};
+
+static const union AnimCmd *const sAnims_LUXRAY[] ={
+    sAnim_GeneralFrame0,
+    sAnim_LUXRAY_1,
+};
+
+static const union AnimCmd *const sAnims_RIOLU[] ={
+    sAnim_GeneralFrame0,
+    sAnim_RIOLU_1,
+};
+
+static const union AnimCmd *const sAnims_LUCARIO[] ={
+    sAnim_GeneralFrame0,
+    sAnim_LUCARIO_1,
+};
+
+static const union AnimCmd *const sAnims_GIBLE[] ={
+    sAnim_GeneralFrame0,
+    sAnim_GIBLE_1,
+};
+
+static const union AnimCmd *const sAnims_GABITE[] ={
+    sAnim_GeneralFrame0,
+    sAnim_GABITE_1,
+};
+
+static const union AnimCmd *const sAnims_GARCHOMP[] ={
+    sAnim_GeneralFrame0,
+    sAnim_GARCHOMP_1,
+};
+
+static const union AnimCmd *const sAnims_HONCHKROW[] ={
+    sAnim_GeneralFrame0,
+    sAnim_HONCHKROW_1,
+};
+
+static const union AnimCmd *const sAnims_MISMAGIUS[] ={
+    sAnim_GeneralFrame0,
+    sAnim_MISMAGIUS_1,
+};
+
+static const union AnimCmd *const sAnims_SPIRITOMB[] ={
+    sAnim_GeneralFrame0,
+    sAnim_SPIRITOMB_1,
+};
+
 static const union AnimCmd *const sAnims_EGG[] ={
     sAnim_GeneralFrame0,
     sAnim_EGG_1,
@@ -7362,6 +7751,35 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD(JIRACHI),
     ANIM_CMD(DEOXYS),
     ANIM_CMD(CHIMECHO),
+	ANIM_CMD(TURTWIG),
+    ANIM_CMD(GROTLE),
+    ANIM_CMD(TORTERRA),
+    ANIM_CMD(CHIMCHAR),
+    ANIM_CMD(MONFERNO),
+    ANIM_CMD(INFERNAPE),
+    ANIM_CMD(PIPLUP),
+    ANIM_CMD(PRINPLUP),
+    ANIM_CMD(EMPOLEON),
+	ANIM_CMD(KRICKETOT),
+    ANIM_CMD(KRICKETUNE),
+	ANIM_CMD(BUDEW),
+    ANIM_CMD(ROSERADE),
+	ANIM_CMD(RHYPERIOR),
+	ANIM_CMD(MAGMORTAR),
+	ANIM_CMD(ELECTIVIRE),
+	ANIM_CMD(FROSLASS),
+	ANIM_CMD(LICKILICKY),
+	ANIM_CMD(SHINX),
+    ANIM_CMD(LUXIO),
+    ANIM_CMD(LUXRAY),
+	ANIM_CMD(RIOLU),
+    ANIM_CMD(LUCARIO),
+	ANIM_CMD(GIBLE),
+    ANIM_CMD(GABITE),
+    ANIM_CMD(GARCHOMP),
+	ANIM_CMD(HONCHKROW),
+	ANIM_CMD(MISMAGIUS),
+	ANIM_CMD(SPIRITOMB),
     ANIM_CMD(EGG),
     ANIM_CMD(UNOWN_B),
     ANIM_CMD(UNOWN_C),
